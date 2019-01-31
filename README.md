@@ -11,15 +11,27 @@
 ## Resources
 
 - Websites
-  - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1)](https://folivetti.github.io/teaching/2019-summer-teaching-2)
-  - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1) - Piazza](https://piazza.com/class/jqwakraajou17b)
-  - [UFABC - Prof. Dr. Paulo Henrique Pisani (2019.1)](http://professor.ufabc.edu.br/~paulo.pisani/)
-  - [UFABC - Prof. Dr. Alexandre Noma (2019.1)](https://sites.google.com/site/alexnoma/home/aed1)
-  - [UFABC - Prof. Dr. Monael Pinheiro (2019.1)](https://www.google.com)
-  - [UFABC - Prof. Dr. Jesús Pascual Mena Chalco (2019.1)](http://professor.ufabc.edu.br/~jesus.mena/courses/aed1-1q-2019/)
-  - [UFABC - Prof. Dra. Mirtha Lina Fernandez Venero (2019.1)](http://professor.ufabc.edu.br/~mirtha.lina/aedi.html) 
-  - [UFABC - Prof. Dr. Márcio Katsumi Oikawa (2019.1)](https://www.google.com) 
-  - [UFABC - Prof. Dr. Monael Pinheiro (2018.1)](https://sites.google.com/site/aed2018q1/)
+  - PT-BR
+    - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1)](https://folivetti.github.io/teaching/2019-summer-teaching-2)
+    - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1) - Piazza](https://piazza.com/class/jqwakraajou17b)
+    - [UFABC - Prof. Dr. Paulo Henrique Pisani (2019.1)](http://professor.ufabc.edu.br/~paulo.pisani/)
+    - [UFABC - Prof. Dr. Alexandre Noma (2019.1)](https://sites.google.com/site/alexnoma/home/aed1)
+    - [UFABC - Prof. Dr. Monael Pinheiro (2019.1)](https://www.google.com)
+    - [UFABC - Prof. Dr. Jesús Pascual Mena Chalco (2019.1)](http://professor.ufabc.edu.br/~jesus.mena/courses/aed1-1q-2019/)
+    - [UFABC - Prof. Dra. Mirtha Lina Fernandez Venero (2019.1)](http://professor.ufabc.edu.br/~mirtha.lina/aedi.html) 
+    - [UFABC - Prof. Dr. Márcio Katsumi Oikawa (2019.1)](https://www.google.com) 
+    - [UFABC - Prof. Dr. Monael Pinheiro (2018.1)](https://sites.google.com/site/aed2018q1/)
+    - [UFABC - Prof. Dr. Cristiane M. Sato (2018.1)](http://tidia4.ufabc.edu.br/portal/site/a373abee-ee84-456b-ae94-3ffcb49d0f4f)
+    - [UFABC - Prof. Dr. Jesús Pascual Mena Chalco (2017.1)](http://professor.ufabc.edu.br/~jesus.mena/courses/mcta001-1q-2017/)
+    - [UFABC - Prof. Dr. André G. Balan (2017.1)](http://tidia4.ufabc.edu.br/portal/site/d837d892-fe3d-42fc-b397-db4d2f221ecd)
+    - [UFABC - Prof. Dr. Mario Leston Rey (2016.1)](http://tidia4.ufabc.edu.br/portal/site/3bcb555e-4c7c-4997-8539-8617c9e2a797/)
+    - [UFABC - Prof. Dr. Jesús Pascual Mena Chalco (2016.1)](http://professor.ufabc.edu.br/~jesus.mena/courses/bc1424-1q-2016/)
+    - [UFABC - Prof. Dr. Monael Pinheiro (2016.1)](http://tidia4.ufabc.edu.br/portal/site/b85749f4-5d60-4acf-9962-d79ef54df8ca)
+    - [UFABC - Prof. Dr. Jesús Pascual Mena Chalco (2015.1)](http://professor.ufabc.edu.br/~jesus.mena/courses/bc1424-1q-2015/)
+    - [UFABC - Prof. Dr. André G. Balan (2015.1)](http://tidia4.ufabc.edu.br/portal/site/4e8c0b13-e168-4cd0-9575-0fe3c2cb84ce)
+    - [UFABC - Prof. Dr. Ronaldo C. Prati (2014.1)](http://tidia4.ufabc.edu.br/portal/site/d1c45181-375f-47fc-940f-37b7992280bf)
+    - [UFABC - Prof. Dra. Letícia Rodrigues Bueno (2014.1)](http://professor.ufabc.edu.br/~leticia.bueno/classes/aed1/)
+    - [UnB - Prof. Dr. Carlo Kleber da S. Rodrigues](https://sites.google.com/site/carlokleber/alg-e-est-dados)
 - Books
 - Courses
 - Tutorials
