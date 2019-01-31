@@ -122,10 +122,10 @@ grade rating
 
 |  Who?  | Meeting Time | Classroom Location |
 | :-----------------------: | :--------------------------: | :--------------------: |
-| Prof. Dr. Fabrício Olivetti de França | Tue (07:30 - 10:00; 12:00 - 12:30) <br/> Thu (07:30 - 08:00) | S-522-2/L110 (
-send email before) |
+| Prof. Dr. Fabrício Olivetti de França | Tue (07:30 - 10:00; 12:00 - 12:30) <br/> Thu (07:30 - 08:00) | S-522-2/L110 |
+| | |
 
-...and...by [Piazza!](https://piazza.com/class/jqwakraajou17b) 
+...and by [Piazza!](https://piazza.com/class/jqwakraajou17b) 
 
 ---
 
