@@ -11,6 +11,15 @@
 ## Resources
 
 - Websites
+  - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1)](https://folivetti.github.io/teaching/2019-summer-teaching-2)
+  - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1) - Piazza](https://piazza.com/class/jqwakraajou17b)
+  - [UFABC - Prof. Dr. Paulo Henrique Pisani (2019.1)](http://professor.ufabc.edu.br/~paulo.pisani/)
+  - [UFABC - Prof. Dr. Alexandre Noma (2019.1)](https://sites.google.com/site/alexnoma/home/aed1)
+  - [UFABC - Prof. Dr. Monael Pinheiro (2019.1)](https://www.google.com)
+  - [UFABC - Prof. Dr. Jesús Pascual Mena Chalco (2019.1)](http://professor.ufabc.edu.br/~jesus.mena/courses/aed1-1q-2019/)
+  - [UFABC - Prof. Dra. Mirtha Lina Fernandez Venero (2019.1)](http://professor.ufabc.edu.br/~mirtha.lina/aedi.html) 
+  - [UFABC - Prof. Dr. Márcio Katsumi Oikawa (2019.1)](https://www.google.com) 
+  - [UFABC - Prof. Dr. Monael Pinheiro (2018.1)](https://sites.google.com/site/aed2018q1/)
 - Books
 - Courses
 - Tutorials
@@ -74,6 +83,49 @@
 **Week 12** <br/>
 [30/04 | (Practice): SUB](https://github.com/el-cardu/algorithms-data-structures-notes/blob/master/notes/23.md) <br/>
 [02/05 | (Theory): REC](https://github.com/el-cardu/algorithms-data-structures-notes/blob/master/notes/24.md)
+
+---
+
+## Grading
+
+```haskell
+
+grade :: Double -> Char
+grade rating
+  | rating >= 9 = 'A'
+  | rating >= 8 = 'B'
+  | rating >= 6 = 'C'
+  | rating >= 5 = 'D'
+  | otherwise = 'F'
+```
+
+---
+
+## Scheduled Lectures + Office Hours (2018.3)
+
+**Scheduled Lectures**
+
+|  Course Number  | Meeting Time | Classroom Location |
+| :-----------------------: | :--------------------------: | :--------------------: |
+| A1D | Tue (08:00 - 10:00) <br/> Thu (10:00 - 12:00) | S-301-1 <br/> L407-2 |
+| A2D | Tue (08:00 - 10:00) <br/> Thu (10:00 - 12:00) | S-301-1 <br/> L409-2 |
+| A3D | Tue (08:00 - 10:00) <br/> Thu (10:00 - 12:00) | S-311-2 <br/> L402-2 |
+| A4D | Tue (08:00 - 10:00) <br/> Thu (10:00 - 12:00) | S-311-2 <br/> L403-2 |
+| B1D | Tue (16:00 - 18:00) <br/> Thu (16:00 - 18:00) | S-311-2 <br/> L407-2 |
+| B2D | Tue (16:00 - 18:00) <br/> Thu (16:00 - 18:00) | S-311-2 <br/> L402-2 |
+| A1N | Tue (19:00 - 21:00) <br/> Thu (21:00 - 23:00) | S-301-1 <br/> L402-2 |
+| A2N | Tue (19:00 - 21:00) <br/> Thu (21:00 - 23:00) | S-301-1 <br/> L404-2 |
+| A3N | Tue (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-311-2 <br/> L407-2 |
+| A4N | Tue (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-311-2 <br/> L408-2 |
+
+**Office Hours**
+
+|  Who?  | Meeting Time | Classroom Location |
+| :-----------------------: | :--------------------------: | :--------------------: |
+| Prof. Dr. Fabrício Olivetti de França | Tue (07:30 - 10:00; 12:00 - 12:30) <br/> Thu (07:30 - 08:00) | S-522-2/L110 (
+send email before) |
+
+...and...by [Piazza!](https://piazza.com/class/jqwakraajou17b) 
 
 ---
 
