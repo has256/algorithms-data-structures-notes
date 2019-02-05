@@ -41,7 +41,8 @@
   - WhatsApp
     - [WhatsApp Group (2019.1)](https://chat.whatsapp.com/Kif1W6czXhfJiN5q4mCFav)
   - Telegram
-
+    - [C/C++ Brazil](https://telegram.me/ccppbrasil)
+    
 ---
 
 ## Schedule/Notes
@@ -146,7 +147,7 @@ grade rating
 For bug fixes, documentation improvements, typos, translations (new/updates) and simple changes, just make a PR! :tada: <br/>
 For more complex changes, pls, make an issue first so we can discuss the design. <br/>
 
-Roadmap for contributing: </br>
+Roadmap for contributing: <br/>
 
 1. Fork it.
 2. Create your feature branch (git checkout -b my-new-feature).
