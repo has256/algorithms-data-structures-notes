@@ -14,7 +14,7 @@
   - PT-BR
     - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1)](https://folivetti.github.io/teaching/2019-summer-teaching-2)
     - [UFABC - Prof. Dr. Fabrício Olivetti (2019.1) - Piazza](https://piazza.com/class/jqwakraajou17b)
-    - [UFABC - Prof. Dr. Paulo Henrique Pisani (2019.1)](http://professor.ufabc.edu.br/~paulo.pisani/)
+    - [UFABC - Prof. Dr. Paulo Henrique Pisani (2019.1)](http://professor.ufabc.edu.br/~paulo.pisani/2019Q1/AEDI/index.html)
     - [UFABC - Prof. Dr. Alexandre Noma (2019.1)](https://sites.google.com/site/alexnoma/home/aed1)
     - [UFABC - Prof. Dr. Monael Pinheiro (2019.1)](https://www.google.com)
     - [UFABC - Prof. Dr. Jesús Pascual Mena Chalco (2019.1)](http://professor.ufabc.edu.br/~jesus.mena/courses/aed1-1q-2019/)
@@ -32,11 +32,49 @@
     - [UFABC - Prof. Dr. Ronaldo C. Prati (2014.1)](http://tidia4.ufabc.edu.br/portal/site/d1c45181-375f-47fc-940f-37b7992280bf)
     - [UFABC - Prof. Dra. Letícia Rodrigues Bueno (2014.1)](http://professor.ufabc.edu.br/~leticia.bueno/classes/aed1/)
     - [UnB - Prof. Dr. Carlo Kleber da S. Rodrigues](https://sites.google.com/site/carlokleber/alg-e-est-dados)
+    - [USP - Paulo Feofiloff](https://www.ime.usp.br/~pf/algoritmos/)
 - Books
+  - [CLRS: Introduction to Algorithms](https://www.amazon.com.br/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_1157433115_58530734048_257324212232_aud-519888259198:pla-374359656680_c_)
+  - [Sedgewick: Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
+  - [Knuth: The art of computer programming](https://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043)
+  - [Tanembaum:  Estruturas de dados usando C](https://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467)
+  - [K&R: The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+  - [Szwarcfiter: Estruturas de Dados e seus Algoritmos](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Jayme-Szwarcfiter/dp/852161750X)
+  - [Ziviani: Projeto de Algoritmos: com implementações em Pascal e C](https://www.amazon.com.br/Projeto-Algoritmos-Implementa%C3%A7%C3%B5es-Pascal-Ampl/dp/8522110506?tag=goog0ef-20&smid=A2RZ2R86KZ1T8T&ascsubtag=go_1494986073_58431735035_285514469186_aud-519888259198:pla-566080525912_c_)
+  - [Pinheiro: Elementos de Programação em C](https://www.saraiva.com.br/elementos-de-programacao-em-c-4173351.html)
+  - [Drozdek: Estrutura de dados e algoritmos em C++](https://www.amazon.com.br/Data-Structures-Algorithms-Adam-Drozdek/dp/1133608426)
+  - [Evaristo: Aprendendo a Programar Programando na Linguagem C](http://professor.ic.ufal.br/jaime/livros/Aprendendo%20a%20Programar%20Programando%20na%20Linguagem%20C.pdf)
+  - [Folk: File Structures, An Object-Oriented Approach Using C++](https://www.amazon.com/File-Structures-Object-Oriented-Approach-C/dp/0201874016)
+  - [Rodrigues: Programação em C++: conceitos básicos e algoritmos](https://www.amazon.de/Programa%C3%A7%C3%A3o-Conceitos-B%C3%A1sicos-Algoritmos-Portuguese/dp/972722038X)
+  - [Celes: Introdução à Estruturas de Dados](https://www.amazon.com.br/Introdução-Estruturas-Dados-Waldemar-Celes/dp/8535283455)
 - Courses
-- Tutorials
 - Podcasts
-- Articles
+- Tools/Tutorials/Articles/Video/InteractiveLearning
+  - Tools
+    - [gcc](https://gcc.gnu.org/)
+    - [gedit](https://wiki.gnome.org/Apps/Gedit)
+    - [vim](https://www.vim.org/)
+    - [VS Code](https://code.visualstudio.com/)
+    - [Codeblocks](http://www.codeblocks.org/)
+    - [Repl.it](https://repl.it/repls/IndolentChocolateTraining)
+    - [AWS Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
+    - [Cygwin](https://www.cygwin.com/)
+    - [Python Tutor C](http://pythontutor.com/c.html#mode=edit)
+    - [Coding Ground](https://www.tutorialspoint.com/codingground.htm)
+    - [Netbeans](https://netbeans.org/)
+  - Interactive Learning
+    - [VisuAlgo](https://visualgo.net/en)
+    - [Hackerrank](https://www.hackerrank.com/domains/algorithms)
+    - [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+    - [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
+    - [Sorting](http://sorting.at/)
+    - [Algomation](http://www.algomation.com/)
+  - Tutorials/Articles/Videos
+    - [Documentação Cpp](http://www.cplusplus.com/reference/)
+    - [BIG O Cheatsheet](http://bigocheatsheet.com/)
+    - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+    - [ASCII Table](http://www.asciitable.com/)
+    - [Programming in movies vs. programming in real life](https://vine.co/v/hPXTA6l9AqQ)
 - Communities
   - WhatsApp
     - [WhatsApp Group (2019.1)](https://chat.whatsapp.com/Kif1W6czXhfJiN5q4mCFav)
@@ -136,7 +174,8 @@ grade rating
 |  Who?  | Meeting Time | Classroom Location |
 | :-----------------------: | :--------------------------: | :--------------------: |
 | Prof. Dr. Fabrício Olivetti de França | Tue (07:30 - 10:00; 12:00 - 12:30) <br/> Thu (07:30 - 08:00) | S-522-2/L110 |
-| | |
+| Prof. Paulo H. Pisani | Wed (16:00 - 18:00) | S-507-2 |
+| Prof. Dra. Mirtha Lina Fernandez Venero | Thu (13:00 - 15:00) | S-529-2 |
 
 ...and by [Piazza!](https://piazza.com/class/jqwakraajou17b) 
 
